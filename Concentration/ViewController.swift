@@ -18,7 +18,6 @@ class ViewController: UIViewController {
         }
     }
     
-    //ignore this comment right now
     
     var theme = Theme()
     
