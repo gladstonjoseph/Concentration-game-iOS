@@ -18,6 +18,8 @@ class ViewController: UIViewController {
         }
     }
     
+    //ignore this comment
+    
     var theme = Theme()
     
     var cardsColor: UIColor?
